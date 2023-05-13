@@ -1,0 +1,12 @@
+server:
+    port: 8099
+    tomcat:
+        uri-encoding: UTF-8
+        max-swallows-size: -1
+spring:
+#  banner:
+#    location: classpath:banner.txt
+  servlet:
+    multipart:
+      max-file-size: 2MB
+      max-request-size: 2MB
