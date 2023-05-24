@@ -4,6 +4,8 @@ server:
         uri-encoding: UTF-8
         max-swallows-size: -1
 spring:
+#  banner:
+#    location: classpath:banner.txt
   servlet:
     multipart:
       max-file-size: 2MB

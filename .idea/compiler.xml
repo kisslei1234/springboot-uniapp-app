@@ -11,6 +11,7 @@
         <module name="book-common" />
         <module name="book-api" />
         <module name="book-service" />
+        <module name="mybatis-generator-for-imooc" />
         <module name="book-mapper" />
       </profile>
     </annotationProcessing>

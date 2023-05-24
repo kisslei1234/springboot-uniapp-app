@@ -13,6 +13,7 @@
         <module>book-service</module>
         <module>book-mapper</module>
         <module>book-model</module>
+        <module>mybatis-generator-for-imooc</module>
     </modules>
 
     <packaging>pom</packaging>
