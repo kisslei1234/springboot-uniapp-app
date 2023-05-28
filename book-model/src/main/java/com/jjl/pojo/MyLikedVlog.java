@@ -1,5 +1,5 @@
 package com.jjl.pojo;
-import java.util.Date;
+
 import javax.persistence.*;
 @Table(name = "my_liked_vlog")
 public class MyLikedVlog {

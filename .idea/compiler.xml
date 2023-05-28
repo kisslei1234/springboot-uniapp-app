@@ -11,11 +11,13 @@
         <module name="book-common" />
         <module name="book-api" />
         <module name="book-service" />
-        <module name="mybatis-generator-for-imooc" />
         <module name="book-mapper" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="mybatis-generator-database" target="1.5" />
+      <module name="mybatis-generator-for-imooc" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
