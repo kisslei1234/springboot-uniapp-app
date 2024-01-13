@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: jjl-red-book-nacos
+  cloud:
+    nacos:
+      config:
+        server-addr: 47.120.6.26:8848
+        file-extension: yaml

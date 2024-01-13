@@ -11,7 +11,7 @@
         <module name="book-common" />
         <module name="book-api" />
         <module name="book-service" />
-        <module name="book-mapper" />
+        <module name="book-dao" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
@@ -23,7 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="book-api" options="-parameters" />
       <module name="book-common" options="-parameters" />
-      <module name="book-mapper" options="-parameters" />
+      <module name="book-dao" options="-parameters" />
       <module name="book-model" options="-parameters" />
       <module name="book-service" options="-parameters" />
     </option>

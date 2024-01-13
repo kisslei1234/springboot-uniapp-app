@@ -1,0 +1,6 @@
+com\jjl\mapper\FansMapper.class
+com\jjl\mapper\CommentMapper.class
+com\jjl\mapper\VlogMapper.class
+com\jjl\mapper\UsersMapper.class
+com\jjl\my\mapper\MyMapper.class
+com\jjl\mapper\MyLikedVlogMapper.class
